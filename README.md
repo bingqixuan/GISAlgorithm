@@ -10,3 +10,4 @@ GIS算法库
 - [2D矩形空间索引的快速建立](https://github.com/mourner/flatbush)
 - [地理坐标库，支持坐标系的相互转换(WGS84，GCJ02，BD09等)，支持GeoJSON](https://github.com/hujiulong/gcoord)
 - [proj4js地理坐标转换库](https://github.com/proj4js/proj4js)
+- [基于Kodituwakka, Wijeweera & Chamikara算法的线裁剪](https://github.com/rowanwins/kwc-lineclip)
