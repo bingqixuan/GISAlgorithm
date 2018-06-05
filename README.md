@@ -11,3 +11,5 @@ GIS算法库
 - [地理坐标库，支持坐标系的相互转换(WGS84，GCJ02，BD09等)，支持GeoJSON](https://github.com/hujiulong/gcoord)
 - [proj4js地理坐标转换库](https://github.com/proj4js/proj4js)
 - [基于Kodituwakka, Wijeweera & Chamikara算法的线裁剪](https://github.com/rowanwins/kwc-lineclip)
+- [polygon-offset：多边形缓冲区](https://github.com/w8r/polygon-offset)
+- [Martinez-Rueda多边形裁剪算法，支持联合、相交、差集等](https://github.com/w8r/martinez)
