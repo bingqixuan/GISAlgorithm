@@ -14,3 +14,4 @@ GIS算法库
 - [polygon-offset：多边形缓冲区](https://github.com/w8r/polygon-offset)
 - [Martinez-Rueda多边形裁剪算法，支持联合、相交、差集等](https://github.com/w8r/martinez)
 - [多边形布尔运算](https://github.com/voidqk/polybooljs)
+- [地理空间点聚合](https://github.com/mapbox/supercluster)
