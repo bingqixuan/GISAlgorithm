@@ -15,3 +15,5 @@ GIS算法库
 - [Martinez-Rueda多边形裁剪算法，支持联合、相交、差集等](https://github.com/w8r/martinez)
 - [多边形布尔运算](https://github.com/voidqk/polybooljs)
 - [地理空间点聚合](https://github.com/mapbox/supercluster)
+- [polylabel：查找多边形内距离轮廓最远处的内部点，用于文本标注等](https://github.com/mapbox/polylabel)
+- [rbush：一个高性能的基于JavaScript的R树的二维空间索引，用于点和矩形](https://github.com/mourner/rbush)
