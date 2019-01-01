@@ -17,3 +17,4 @@ GIS算法库
 - [地理空间点聚合](https://github.com/mapbox/supercluster)
 - [polylabel：查找多边形内距离轮廓最远处的内部点，用于文本标注等](https://github.com/mapbox/polylabel)
 - [rbush：一个高性能的基于JavaScript的R树的二维空间索引，用于点和矩形](https://github.com/mourner/rbush)
+- [Geometry Extrude: 一个小而快速的JavaScript库，用于将2D多边形和折线挤压成3D网格](https://github.com/pissang/geometry-extrude)
