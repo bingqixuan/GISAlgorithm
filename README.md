@@ -20,3 +20,4 @@ GIS算法库
 - [Geometry Extrude: 一个小而快速的JavaScript库，用于将2D多边形和折线挤压成3D网格](https://github.com/pissang/geometry-extrude)
 - [random-volume-points：在给定几何体内生成随机3d点](https://github.com/nicknikolov/random-volume-points)
 - [spline-points：将3d路径细分为样条点](https://github.com/vorg/spline-points)
+- [获取二维折线的斜接法线，这对于在GPU的顶点着色器中展开粗线很有用](https://github.com/mattdesl/polyline-normals)
