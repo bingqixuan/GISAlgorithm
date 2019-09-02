@@ -21,4 +21,6 @@ GIS算法库
 - [random-volume-points：在给定几何体内生成随机3d点](https://github.com/nicknikolov/random-volume-points)
 - [spline-points：将3d路径细分为样条点](https://github.com/vorg/spline-points)
 - [获取二维折线的斜接法线，这对于在GPU的顶点着色器中展开粗线很有用](https://github.com/mattdesl/polyline-normals)
+- [用于通过普通克里金法进行地理空间预测和映射的Javascript库](https://github.com/oeo4b/kriging.js)
+- [计算给定有效geojson对象的范围/ bbox](https://github.com/geosquare/geojson-bbox)
 - [将布尔多边形裁剪操作应用于Polygons和MultiPolygons](https://github.com/mfogel/polygon-clipping)
