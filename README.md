@@ -24,3 +24,4 @@ GIS算法库
 - [用于通过普通克里金法进行地理空间预测和映射的Javascript库](https://github.com/oeo4b/kriging.js)
 - [计算给定有效geojson对象的范围/ bbox](https://github.com/geosquare/geojson-bbox)
 - [将布尔多边形裁剪操作应用于Polygons和MultiPolygons](https://github.com/mfogel/polygon-clipping)
+- [检测点是否在多边形内](https://github.com/mikolalysenko/robust-point-in-polygon)
